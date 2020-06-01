@@ -1,0 +1,14 @@
+{
+  "name": "addcolor",
+  "version": "1.0.0",
+  "description": "<!-- git init \r git add\r git commit\r git log  --> <!-- cho mình xem lịch sử commit cái gì\r git show",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
